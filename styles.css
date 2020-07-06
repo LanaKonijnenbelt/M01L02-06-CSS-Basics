@@ -1,0 +1,19 @@
+body {
+    background-color: silver;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.red-border {
+    background-color: cyan;
+    border: 1px solid red;
+}
+
+#red-background {
+    background-color: red;
+}
+
+#twenty-pixels {
+    font-size: 20px;
+}
